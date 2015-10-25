@@ -1,0 +1,33 @@
+.dateline {
+	padding: 0 0 0 0;
+	font-size: 12px;
+	font-weight:bold;
+	float: right;
+}
+
+.eventtitle {
+	font-size: 16px;
+	font-weight:bolder;
+}
+
+.eventbody {
+	margin-top: 15px;
+	font-size: 14px;
+	font-weight:normal;
+
+}
+
+section {
+	border-top-style:solid;
+	border-top-width:5px;
+	margin-top: 25px;
+	padding-left: 10px;
+}
+
+header img {
+	float: left;
+}
+
+aside {
+	margin-bottom: 30px;
+}

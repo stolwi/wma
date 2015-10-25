@@ -1,0 +1,169 @@
+<root>
+<event>
+	<title>Dinner Show: "All That Glitters"</title>
+	<what>
+		1:00 PM Desert Matinee Show<br/>
+		- Featuring Sound Attraction, Jazz Outlet, Sound Sensation, and Jazz Works.<br/>
+ 		5:30 PM Dinner Show <br/>
+ 		- Featuring Sound Attraction and Jazz Outlet<br/>
+ 		<a href="#">More Information...</a><br/>
+	</what>
+	<when>April 26, 2014</when>
+	<where>High School Gym</where>
+	<who>Junior High</who>
+	<who>High School</who>
+	<ensemble>Jazz</ensemble>
+	<ensemble>Show Choir</ensemble>
+</event>
+<event>
+	<title>State Large Group Festival</title>
+	<what>
+		State Large Group Festival at Grinnell details...
+	</what>
+	<when>May 15, 2014</when>
+	<where>Grinnell</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Beginning Band Registration</title>
+	<what>
+		Beginning Band Registration details...
+	</what>
+	<when>May 13, 2014</when>
+	<where>??</where>
+	<who>Middle School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Memorial Day Concert</title>
+	<what>
+		Memorial Day Concert details...
+	</what>
+	<when>May 26, 2014</when>
+	<where>Messer Auditorium</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Ped Mall Concert</title>
+	<what>
+		The Jazz band performs at the Pedestrian Mall in Iowa City from 7-8PM
+	</what>
+	<when>April 28, 2014</when>
+	<where>Iowa City</where>
+	<who>High School</who>
+	<ensemble>Jazz</ensemble>
+</event>
+<event>
+	<title>Band Banquet</title>
+	<what>
+		Band Pot Luck and Awards night
+	</what>
+	<when>May 19, 2014</when>
+	<where>Large Cafeteria</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Summer Lessons</title>
+	<what>
+		Summer lessons from 6/5/2014 - ?
+	</what>
+	<when>June 6, 2014</when>
+	<where>High School</where>
+	<who>High School</who>
+	<who>Junior High</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Parade Rehearsal</title>
+	<what>
+		Junior High and High School practice for the 4th of July Parade. 9-11 AM.
+	</what>
+	<when>July 3, 2014</when>
+	<where>High School</where>
+	<who>High School</who>
+	<who>Junior High</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>4th of July Parade</title>
+	<what>
+		Junior High and High School march in the Williamsburg 4th of July Parade.
+	</what>
+	<when>July 4, 2014</when>
+	<where>Williamsburg Square &amp; surrounding</where>
+	<who>High School</who>
+	<who>Junior High</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Leadership Camp</title>
+	<what>
+	</what>
+	<when>July 30, 2014</when>
+	<where>High School?</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>New Marcher's Camp</title>
+	<what>
+		9 AM - 12 PM
+	</what>
+	<when>July 31, 2014</when>
+	<where>High School</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Drumline/Pit Camp</title>
+	<what>
+		
+	</what>
+	<when>Aug 1, 2014</when>
+	<where>High School</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Marching Band Camp</title>
+	<what>
+		Saturday, Aug 2: 8:30 AM - 5:00 PM<br/>
+		Monday Aug 4 - Wednesday Aug 6: 9:00 AM - 3:30 PM 
+	</what>
+	<when>Aug 2, 2014</when>
+	<where>High School</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>5th grade Band Camp</title>
+	<what>
+		Thursday Aug 6, Friday Aug 7, Monday Aug 11, Tuesday Aug 12 
+	</what>
+	<when>Aug 6, 2014</when>
+	<where>High School</where>
+	<who>Middle School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>Home Football Game - Grinnell</title>
+	<what>
+	</what>
+	<when>Sept 5, 2014</when>
+	<where>High School</where>
+	<who>High School</who>
+	<ensemble>Band</ensemble>
+</event>
+<event>
+	<title>JH Concert</title>
+	<what>
+	</what>
+	<when>May 27, 2014</when>
+	<where>High School</where>
+	<who>Junior High</who>
+	<ensemble>Choral</ensemble>
+</event>
+</root>
