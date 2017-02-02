@@ -48,7 +48,32 @@
                     <header>
                         <h1>Photos</h1>
                     </header>
-                    <div>
+
+<script>
+  // Load the IFrame Player API code asynchronously.
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/player_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  // Replace the 'ytplayer' element with an <iframe> and
+  // YouTube player after the API code downloads.
+  var player;
+  function onYouTubePlayerAPIReady() {
+    player = new YT.Player('ytplayer', {
+      height: '390',
+      width: '640',
+      videoId: '-O7QIZ5KX7A',
+      playerVars: {rel: 0}
+    });
+  }
+</script>			<p><b>Sirens & En Harmony sing at the opening of the 86th General Assembly<br> - Iowa Capitol Building<br>
+					<div id="ytplayer"></div>
+					</p>
+                    <!---<iframe id="ytplayer" type="text/html" width="640" height="390"
+					  src="http://www.youtube.com/embed/-O7QIZ5KX7A?autoplay=1&origin=http://raidermusic.com"
+  					frameborder="0"/>--->
+                    <!---<div>
                         Show Choir  2/14/2015 <br/>
 					<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="800" height="533" flashvars="host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F102097221889933077703%3Falt%3Drss%26kind%3Dphoto%26access%3Dpublic%26psc%3DF%26q%26uname%3D102097221889933077703" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
                     </div>
@@ -62,6 +87,15 @@
 						Disney Trip 2015 <br/>
 						<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="800" height="533" flashvars="host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F102097221889933077703%2Falbumid%2F6146281445835696801%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCIq9tZCs1e7EIw%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
                     </div>
+                    --->
+                    <div>
+                    	<b>Christmas Grand Concert 2015</b><br>
+                    	Thanks to Joe Petz of the Williamsburg Journal-Tribune for allowing us to display these!
+
+                    	<div><img src="img\CH_018.JPG" alt="Christmas Grand Concert" width=600></div><p>
+                    	<div><img src="img\CH_028.JPG" alt="Christmas Grand Concert" width=600></div><p>
+                    	<div><img src="img\CH_046.JPG" alt="Christmas Grand Concert" width=600></div><p>
+                    	<div><img src="img\CH_049.JPG" alt="Christmas Grand Concert" width=600></div><p>
                     <footer>
                         <h3></h3>
                         <p></p>

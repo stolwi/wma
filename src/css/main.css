@@ -119,9 +119,17 @@ nav a {
 
     color: red;
 }
+aside a:link {
+	color: #39CCCC;
+}
+
+aside a:visited {
+	color: red;
+}
 
 nav a:hover,
 nav a:visited {
+    color: red !important;
 }
 
 nav a:active {
@@ -132,6 +140,8 @@ nav a:active {
 nav a:hover {
     text-decoration: underline;
 }
+
+
 
 /* ==============
     MOBILE: Main
@@ -352,6 +362,7 @@ nav a:hover {
     a,
     a:visited {
         text-decoration: underline;
+        color: #39CCCC
     }
 
     a[href]:after {
