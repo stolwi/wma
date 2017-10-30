@@ -1,0 +1,19 @@
+#photos .item{
+  display: block;
+  padding: 54px 0px;
+  margin: 50px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+  height: 200;
+  width: 200;
+}
+.left{
+  text-align: left;
+  margin-bottom: 10px;
+}
+.left .btn {
+  display: block;
+}

@@ -1,0 +1,15 @@
+<categories>
+	<who>Middle School</who>
+	<who>Junior High</who>
+	<who>High School</who>
+	<who>Music Association</who>
+	<band>
+		<ensemble>Band</ensemble>
+		<ensemble>Jazz</ensemble>
+		<ensemble>Honor Band</ensemble>
+	</band>
+	<choral>
+		<ensemble>Choral</ensemble>
+		<ensemble>Show Choir</ensemble>
+	</choral>
+</categories>
